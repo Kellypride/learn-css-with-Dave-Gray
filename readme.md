@@ -12,3 +12,15 @@
   . Absolute
   . Realative
   . Viewport
+
+  ## Box model (lesson4)
+  - Css fundamental concept for understanding how web page element are laid out and styled.
+   . Content
+   . Padding
+   . Border
+   . Margin
+
+   ## Topography (lesson 5)
+   - Topography is the way text is arrange and presented
+   . Font properties and
+   . Text settings

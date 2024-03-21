@@ -1,0 +1,24 @@
+/* topography is the way text is arrange and presented. */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 2em;
+    font-family: "Roboto Slab", serif;
+}
+
+/* input, button {
+    font-size: inherit;
+} */
+p {
+    text-decoration: none;
+    text-transform: capitalize;
+    /* text-align: justify;
+    text-indent: 2em;
+    letter-spacing: 0.01em; */
+    line-height: 1.5;
+    word-spacing: 0.05;
+    font-weight: 200;
+    /* font-style: oblique; */
+}
